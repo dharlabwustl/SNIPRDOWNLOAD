@@ -6,5 +6,5 @@ XNAT_USER=sys.argv[2]
 XNAT_PASS=sys.argv[3]
 XNAT_HOST=sys.argv[4]
 ## download meta-data for a session:
-get_metadata_session(SESSION_ID,outputfile=str(SESSION_ID)+".csv")
+get_metadata_session(SESSION_ID,outputfile=os.path.join('/workinginput',str(SESSION_ID)+".csv"))
 
