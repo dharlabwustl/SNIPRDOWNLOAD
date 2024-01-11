@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c48a1eed-13cf-4776-9889-6b21fff3ebca" name="Changes" comment="Commit 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REDCAPAPIFILES/fill_redcap.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNIPRAPIFILES/download_with_session_ID.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNIPRAPIFILES/fillmaster_session_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SNIPRAPIFILES/xnatSession.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/download_ct_scans.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_ct_scans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_to_call_main_program.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script_to_call_main_program.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704987259126</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit 1">
+      <created>1704987980374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704987980374</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit 1">
+      <created>1704988198643</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704988198643</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
